@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/blackbarn/number-formatter.svg?branch=master)](https://travis-ci.org/blackbarn/number-formatter)
+
 Number Formatter
 =========
 
