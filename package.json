@@ -1,0 +1,26 @@
+{
+  "name": "@blackbarn/number-formatter",
+  "version": "0.0.1",
+  "description": "test repo for npm module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbarn/number-formatter.git"
+  },
+  "author": "Kyle Brown <blackbarn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackbarn/number-formatter/issues"
+  },
+  "homepage": "https://github.com/blackbarn/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
